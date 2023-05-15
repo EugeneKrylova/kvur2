@@ -1,4 +1,5 @@
 baddata = True
+while baddata == True
 try:
     a = int(input('Введите a: '))
     b = int(input('Введите b: '))
@@ -7,4 +8,11 @@ try:
 except:
     print('Не удалось получить данные')
 
-if not baddata : print('Сумма: ', a + b + c)
+D = (b*b)-(4*a*c)
+
+if D>0:
+    print('Два корня')
+elif D==0
+    print('Один корень')
+else:
+    print('Нет корней')
