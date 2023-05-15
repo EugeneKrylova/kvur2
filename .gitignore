@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 # paroli
-*.pas
+*.pass
 # C extensions
 *.so
 
