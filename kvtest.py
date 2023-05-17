@@ -1,4 +1,4 @@
-# kvur2
+# kvur 2
 from math import sqrt
 baddata = True
 while baddata == True:
