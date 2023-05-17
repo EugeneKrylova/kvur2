@@ -1,3 +1,4 @@
+# kvur2
 from math import sqrt
 baddata = True
 while baddata == True:
